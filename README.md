@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PranavAD36/PranavAD36/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <!--
 **smitdafda222/smitdafda222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
